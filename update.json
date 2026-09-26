@@ -1,8 +1,8 @@
 {
-    "versionCode":  26,
-    "versionName":  "1.2.1",
-    "apkUrl":  "https://github.com/SCHauler-ops/Hauler-Updates/releases/download/v1.2.1/Hauler-v1.2.1.apk",
-    "changelog":  "Hauler 1.2.1 - Adaptive Collection Plans now preserve dependency-safe visible ordering.",
-    "sha256":  "a49d7e4d980f779e4902dcaf81c37bbcd7fce0b2b33fdae7e7594e43858ad372",
-    "applicationId":  "com.schauler.app"
+  "versionCode": 27,
+  "versionName": "1.2.2",
+  "apkUrl": "https://github.com/SCHauler-ops/Hauler-Updates/releases/download/v1.2.2/Hauler-v1.2.2.apk",
+  "changelog": "Hauler 1.2.2 - Fixes the in-app updater installation flow.",
+  "sha256": "f468ffed8515a21ac35829183cf92d1d808ff3ba0155e29550d4f6b04e822307",
+  "applicationId": "com.schauler.app"
 }

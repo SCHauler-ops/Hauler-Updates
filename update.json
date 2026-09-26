@@ -1,6 +1,8 @@
 {
-  "versionCode": 24,
-  "versionName": "1.1.4",
-  "apkUrl": "https://github.com/SCHauler-ops/Hauler/releases/download/v1.1.4/app-release.apk",
-  "changelog": "Hauler 1.1.4 — Planner improvements and wireless updater."
+  "versionCode": 25,
+  "versionName": "1.2.0",
+  "apkUrl": "https://github.com/SCHauler-ops/Hauler/releases/download/v1.2.0/Hauler-v1.2.0.apk",
+  "changelog": "Hauler 1.2.0 — Planner routing fixes, adaptive multi-trip collection, destination-aware cargo splitting, evolving cash, Live Haul improvements, and UI polish.",
+  "sha256": "65a8584e35f724a302d779478d16e61ec2caba1ed52a647ab714bb6373da1905",
+  "applicationId": "com.schauler.app"
 }

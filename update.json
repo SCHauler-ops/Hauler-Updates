@@ -1,8 +1,8 @@
 {
   "versionCode": 27,
   "versionName": "1.2.2",
-  "apkUrl": "https://github.com/SCHauler-ops/Hauler-Updates/releases/download/v1.2.2/Hauler-v1.2.2.apk",
-  "changelog": "Hauler 1.2.2 - Fixes the in-app updater installation flow.",
-  "sha256": "f468ffed8515a21ac35829183cf92d1d808ff3ba0155e29550d4f6b04e822307",
+  "apkUrl": "https://github.com/SCHauler-ops/Hauler/releases/download/v1.2.2/Hauler-v1.2.2.apk",
+  "changelog": "Smarter Live Haul remaining-route optimisation, improved capacity-aware pickup planning, streamlined contract entry, automatic delivery totals, and cleaner pickup wording.",
+  "sha256": "b2cb07a462d312da32b8ba038e93921bc29b0e6a55ea3c4f29ac2c3482020a8c",
   "applicationId": "com.schauler.app"
 }

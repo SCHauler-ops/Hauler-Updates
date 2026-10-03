@@ -1,7 +1,7 @@
 {
   "versionCode": 28,
   "versionName": "1.2.3",
-  "apkUrl": "https://github.com/SCHauler-ops/Hauler/releases/download/v1.2.3/Hauler-v1.2.3.apk",
+  "apkUrl": "https://schauler-ops.github.io/Hauler-Updates/releases/Hauler-v1.2.3.apk",
   "changelog": "Live Haul can now use spare ship capacity for partial cross-contract pickups, keep mixed-contract cargo onboard when that improves the route, and remain responsive with bounded route projection.",
   "sha256": "b6ed1aebe7dc5f51e7c1485bba7dfdaba7118fe49ff0acc240e1602362edc282",
   "applicationId": "com.schauler.app"

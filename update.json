@@ -1,8 +1,8 @@
 {
-  "versionCode": 28,
-  "versionName": "1.2.3",
-  "apkUrl": "https://schauler-ops.github.io/Hauler-Updates/releases/Hauler-v1.2.3.apk",
-  "changelog": "Live Haul can now use spare ship capacity for partial cross-contract pickups, keep mixed-contract cargo onboard when that improves the route, and remain responsive with bounded route projection.",
-  "sha256": "b6ed1aebe7dc5f51e7c1485bba7dfdaba7118fe49ff0acc240e1602362edc282",
+  "versionCode": 29,
+  "versionName": "1.2.4",
+  "apkUrl": "https://schauler-ops.github.io/Hauler-Updates/releases/Hauler-v1.2.4.apk",
+  "changelog": "Numeric Planner routes can use spare capacity for partial pickups from additional contracts when that produces a shorter complete route. Delivery-first remains valid when better. Existing saved routes are not replanned: create a brand-new fully numeric haul after installing v1.2.4. Physical-device routing acceptance remains pending.",
+  "sha256": "31cae05242cbbbd6cd50c23f07d6b3f015c8d1826ec363f5c33c78fe5a001d11",
   "applicationId": "com.schauler.app"
 }
